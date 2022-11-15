@@ -35,7 +35,8 @@ RAK, United Arab Emirates</p>
                   <span className="icon pe-7s-call"></span>
                   <div className="cont">
                     <h6>Call Us</h6>
-                    <p>+97172041012 </p>
+                    <p>+971 55 694 3098 OLGA </p>
+                    <p>+971 52 471 2232 OLEG </p>
                   </div>
                 </li>
               </ul>
